@@ -1,5 +1,12 @@
 # Experiment_4-Pointer-Basics
 
+## Algorithm:
+1. Start
+2. assign variable (say a) a value
+3. define the pointer variable to be equal to the address of the variable a.
+4. Print the address, the value at the address and address of the pointer.
+5. Stop
+
 ## A.
 To use pointers to reference cells and print their values
 
